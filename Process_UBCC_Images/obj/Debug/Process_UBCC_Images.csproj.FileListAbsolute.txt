@@ -1,0 +1,8 @@
+c:\users\hanan\documents\visual studio 2012\projects\Process_UBCC_Images\Process_UBCC_Images\bin\Debug\Process_UBCC_Images.exe.config
+c:\users\hanan\documents\visual studio 2012\projects\Process_UBCC_Images\Process_UBCC_Images\bin\Debug\Process_UBCC_Images.exe
+c:\users\hanan\documents\visual studio 2012\projects\Process_UBCC_Images\Process_UBCC_Images\bin\Debug\Process_UBCC_Images.pdb
+c:\users\hanan\documents\visual studio 2012\projects\Process_UBCC_Images\Process_UBCC_Images\obj\Debug\Process_UBCC_Images.Properties.Resources.resources
+c:\users\hanan\documents\visual studio 2012\projects\Process_UBCC_Images\Process_UBCC_Images\obj\Debug\Process_UBCC_Images.csproj.GenerateResource.Cache
+c:\users\hanan\documents\visual studio 2012\projects\Process_UBCC_Images\Process_UBCC_Images\obj\Debug\Process_UBCC_Images.exe
+c:\users\hanan\documents\visual studio 2012\projects\Process_UBCC_Images\Process_UBCC_Images\obj\Debug\Process_UBCC_Images.pdb
+c:\users\hanan\documents\visual studio 2012\projects\Process_UBCC_Images\Process_UBCC_Images\obj\Debug\Process_UBCC_Images.ProcessImg.resources
